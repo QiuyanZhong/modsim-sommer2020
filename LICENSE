@@ -1,11 +1,15 @@
 
-
 ===================================================
-The binder integration of octave has been published 
+The binder integration of octave in the files 
+
+environment.yml 
+apt.txr
+
+has been published 
 
 https://github.com/binder-examples/octave
 
-BSD 3-Clause License
+under the BSD 3-Clause License
 
 Copyright (c) 2018, Tim Head
 All rights reserved.
