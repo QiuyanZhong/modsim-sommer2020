@@ -1,5 +1,5 @@
 dependencies:
-- octave_kernel
-- pip
+  - octave_kernel
+  - pip
   - pip:
-    -sympy
+    - nbgitpuller
