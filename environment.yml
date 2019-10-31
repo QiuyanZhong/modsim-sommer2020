@@ -1,2 +1,5 @@
 dependencies:
 - octave_kernel
+- pip
+  - pip:
+    -sympy
